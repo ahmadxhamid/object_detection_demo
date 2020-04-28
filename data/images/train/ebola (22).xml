@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>ebola (22).jpg</filename>
+	<path>C:\Users\SAMSUMG\Desktop\tonya\object_detection_demo-master\data\images\train\ebola (22).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2700</width>
+		<height>2329</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>EBOLA</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>271</ymin>
+			<xmax>1748</xmax>
+			<ymax>1730</ymax>
+		</bndbox>
+	</object>
+</annotation>
